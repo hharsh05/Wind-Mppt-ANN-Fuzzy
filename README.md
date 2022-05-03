@@ -1,1 +1,1 @@
-# Wind-Mppt-ANN
+# Wind-Mppt-ANN-Fuzzy
